@@ -1,4 +1,4 @@
-# imgtotxt
+# AI Chatbot
 
 A new Flutter project.
 
